@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🔧 Lenguajes y herramientas
 
 ![Lenguajes](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,vscode,github)
 
