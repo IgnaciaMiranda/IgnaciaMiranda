@@ -1,9 +1,13 @@
 # ¡Hola! Soy Chibi👋
 
 🎓 Estudiante de Ingenieria en Computacion en Universidad
+
 🌍 De Chile, La Serena
+
 💻 Me gusta la tecnologia, el desarrollo de software y resolver problemas con codigo
+
 🌱 Actualmente aprendiendo: C, C++, Python, Java, CSS y HTML y desarrollo web
+
 📫 Puedes contactarme en: ignaciagit@gmail.com
 
 ---
