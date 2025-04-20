@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ignacia Miranda 👋
+# ¡Hola! Soy Chibi👋
 
 🎓 Estudiante de Ingenieria en Computacion en Universidad
 🌍 De Chile, La Serena
