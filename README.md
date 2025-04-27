@@ -14,7 +14,7 @@
 
 ## 🔧 Lenguajes y herramientas
 
-![Lenguajes](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,vscode,github)
+![Lenguajes](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,vscode,github)
 
 ---
 
