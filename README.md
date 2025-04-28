@@ -1,4 +1,4 @@
-# ¡Hola! Soy Chibi👋
+# ¡Hola! Soy Chibi❣️
 
 🎓 Estudiante de Ingenieria en Computacion en Universidad
 
