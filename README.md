@@ -6,7 +6,7 @@
 
 💻 Me gusta la tecnologia, el desarrollo de software y resolver problemas con codigo
 
-🌱 Actualmente aprendiendo: C, C++, Python, Java, CSS y HTML y desarrollo web
+🌱 Actualmente aprendiendo: C, C++, Py, Java, CSS y HTML y desarrollo web
 
 📫 Puedes contactarme en: ignaciagit@gmail.com
 
